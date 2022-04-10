@@ -1,3 +1,4 @@
+//explanation and video demo on: https://www.instructables.com/Simulating-Charge-Distribution-on-a-Thin-Sheet-of-/
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext('2d');
 
